@@ -9,7 +9,7 @@ Login Form: Includes a "Remember Me" checkbox to save the email to local storage
 
 Download the source code
 
-Install dependencies  npm install
+Install dependencies and the node modules npm install
 
 Start the Metro server  npm start
 
